@@ -1,0 +1,27 @@
+#btn {
+	background-color: #4CAF50;
+	padding: 2%;
+	text-align: center;
+	display: inline-block;
+	color: white;
+	cursor: pointer;
+	margin: 4px 2px;
+	border: none;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+li {
+	font-size: 2em;
+	padding: 5px;
+	margin: 2px;
+	list-style-type: square;
+	border-bottom: 1px solid;
+	border-bottom-color: #D3D3D3; 
+}
+
+.active {
+	background-color: #4CAF50;
+}
